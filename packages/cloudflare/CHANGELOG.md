@@ -1,5 +1,11 @@
 # @astrojs/cloudflare
 
+## 12.0.0-beta.2
+
+### Patch Changes
+
+- [#431](https://github.com/withastro/adapters/pull/431) [`9cedc9b`](https://github.com/withastro/adapters/commit/9cedc9b23175e3b1d74f2d1d10410c2beac1b774) Thanks [@renovate](https://github.com/apps/renovate)! - Inherits `platformProxy` option types from `wrangler`
+
 ## 12.0.0-beta.1
 
 ### Major Changes

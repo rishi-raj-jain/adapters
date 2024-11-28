@@ -1,5 +1,11 @@
 # @astrojs/vercel
 
+## 8.0.0-beta.5
+
+### Minor Changes
+
+- [#447](https://github.com/withastro/adapters/pull/447) [`7d9835f`](https://github.com/withastro/adapters/commit/7d9835fa8d460ec3fd0a1af42aad4e185a8d1636) Thanks [@laymonage](https://github.com/laymonage)! - Add support for Node 22 on Vercel serverless
+
 ## 8.0.0-beta.4
 
 ### Patch Changes
